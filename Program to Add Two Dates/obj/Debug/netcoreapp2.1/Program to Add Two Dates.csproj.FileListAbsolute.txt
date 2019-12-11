@@ -1,0 +1,3 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Add Two Dates\Program to Add Two Dates\obj\Debug\netcoreapp2.1\Program to Add Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Add Two Dates\Program to Add Two Dates\obj\Debug\netcoreapp2.1\Program to Add Two Dates.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Add Two Dates\Program to Add Two Dates\obj\Debug\netcoreapp2.1\Program to Add Two Dates.AssemblyInfo.cs
